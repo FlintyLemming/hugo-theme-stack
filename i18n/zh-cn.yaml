@@ -24,7 +24,7 @@ notFound:
     title:
         other: 404 错误
     subtitle:
-        other: 页面不存在
+        other: 页面不存在。你可以尝试将链接中的 https://blog.mitsea.com/ 替换为 https://www.notion.so/flintylemming/ 查看原档。
 
 widget:
     archives:
